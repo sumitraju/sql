@@ -1,0 +1,1 @@
+SELECT * FROM `employees` WHERE manager_id = 100 AND department_id = 5
